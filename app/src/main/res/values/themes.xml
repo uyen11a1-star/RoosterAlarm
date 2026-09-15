@@ -1,0 +1,15 @@
+<resources>
+    <style name="Theme.Rooster" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#FF7043</item>
+        <item name="colorPrimaryVariant">#E64A19</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#FFC107</item>
+        <item name="android:windowBackground">#1A120B</item>
+    </style>
+
+    <style name="Theme.Rooster.Ring" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">#B71C1C</item>
+        <item name="android:statusBarColor">#B71C1C</item>
+        <item name="android:navigationBarColor">#B71C1C</item>
+    </style>
+</resources>

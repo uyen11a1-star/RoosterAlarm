@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Rooster Alarm</string>
+    <string name="channel_alarm">Báo thức đang reo</string>
+</resources>
