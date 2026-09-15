@@ -148,7 +148,7 @@ class AddAlarmActivity : AppCompatActivity() {
                 try { track.stop(); track.release() } catch (_: Exception) {}
                 previewTrack = null
             } catch (_: Exception) {}
-        }.start()
+        }.apply { start() }
     }
 
     private fun stopPreview() {
